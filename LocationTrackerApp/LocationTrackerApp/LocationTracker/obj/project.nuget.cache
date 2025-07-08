@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SbX6dypN9+g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\euros\\LocationTrackerApp\\LocationTrackerApp\\LocationTracker\\LocationTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\euros\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\euros\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
